@@ -118,7 +118,7 @@ export const Contact: React.FC = () => {
             </div>
           </div>
           <div className="border-t border-stone-800 mt-8 pt-8 text-center text-stone-500 text-sm">
-            &copy; 2025 2Frame Photography. All Rights Reserved.
+            &copy; 2023 2Frame Photography. All Rights Reserved.
           </div>
         </div>
       </footer>
